@@ -2,5 +2,5 @@
 
 ```mermaid
 classDiagram
-a <|--- b
+a <|-- b
 ```
