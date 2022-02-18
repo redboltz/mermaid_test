@@ -4,3 +4,5 @@
 classDiagram
 a <|-- b
 ```
+
+[sub/t1.md]
