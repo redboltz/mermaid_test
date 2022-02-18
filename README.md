@@ -5,4 +5,4 @@ classDiagram
 a <|-- b
 ```
 
-[sub/t1.md]
+[sub](sub/t1.md)
